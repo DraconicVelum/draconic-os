@@ -8,9 +8,9 @@
   <a href="https://github.com/GitSquared/edex-ui/blob/master/LICENSE"><img alt="undefined" src="https://img.shields.io/github/license/DraconicVelum/draconic-os.svg?style=popout"></a>
   <br>
   <a href="https://github.com/DraconicVelum/draconic-os/releases/download/v1.0.1/Draconic-OS-Windows.exe" target="_blank"><img alt="undefined" src="https://badgen.net/badge/Download/Windows/?color=blue&icon=windows&label"></a>
-  <br>
-  Original eDEX-UI README bellow. 
   <br><br><br>
+  Original eDEX-UI README bellow. 
+  <br>
   <a href="https://github.com/GitSquared/edex-ui/releases/tag/v2.2.8"><strong><i>(eDEX-UI - Project archived oct. 18th 2021)</i></strong></a>
   <br><br><br>
 </p>
